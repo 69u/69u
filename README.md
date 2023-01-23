@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi, I'm @69u <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> A full-stack developer from Australia 🦘 </b></h1>
+<h1 align="center"><b>Hi, I'm @69u <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> - A full-stack developer from Australia 🦘 </b></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" /></a>
 <h4 align="center">I usually use these: </h4>
 <p align="center">
