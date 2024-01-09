@@ -38,8 +38,8 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=69u&layout=compact&theme=dark" />
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=69u&label=Profile%20views&color=0e75b6&style=flat" alt="69u" /> </p>
 <h4 align="center">Discord Status</h4>
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/330809570534359042.png" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=69u&label=Profile%20views&color=0e75b6&style=flat" alt="69u" /> </p>
