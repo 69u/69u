@@ -27,11 +27,15 @@ python · php · c# · bootstrap
 ### 📊 stats
 
 <p align="center">
-<img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs/?username=69u&hide=html,css&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=69u&theme=codeSTACKr&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.tuhidulhossain.com/api?username=69u&theme=dark" />
+<img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=69u&theme=codeSTACKr" alt="Streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=69u&theme=codeSTACKr&show_icons=true" alt="Stats" />
 </p>
 
 ---
