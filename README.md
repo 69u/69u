@@ -1,45 +1,41 @@
+<h1 align="center">hi, i'm 69u</h1>
 
-<h1 align="center"><b>Hi, I'm @69u <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> - A full-stack developer from Australia 🦘 </b></h1>
-<h4 align="center">I usually work with these languages: </h4>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
-<img src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="solidjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+pc guy • breaks things • occasionally fixes them
 </p>
-<h4 align="center">Development environment:</h4>
+
+---
+
+### stack (when i can be bothered)
+
+typescript · javascript · lua · node · html · css · tailwind
+
+---
+
+### tools
+
+vs code · postman · npm · firefox
+
+---
+
+### touched before
+
+python · php · c# · bootstrap
+
+---
+
+### stats (for the algorithm gods)
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://git-fork.com/images/logo.png" alt="fork" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="heidisql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69u&hide=html,css&layout=compact&theme=dark" />
 </p>
-<h4 align="center">I've used these languages before:</h4>
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://github-readme-stats.vercel.app/api?username=69u&theme=dark" />
 </p>
-<h4 align="center">Statistics</h4>
+
+---
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=69u&hide=html,css&layout=compact&theme=dark" />
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=69u&layout=compact&theme=dark" />
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=69u&label=Profile%20views&color=0e75b6&style=flat" alt="69u" /> </p>
-<h4 align="center">Discord Status</h4>
-<p align="center">
-<img src="https://discord.c99.nl/widget/theme-2/330809570534359042.png" />
+views: <img src="https://komarev.com/ghpvc/?username=69u&style=flat" />
 </p>
