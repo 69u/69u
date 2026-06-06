@@ -1,41 +1,41 @@
-<h1 align="center">hi, i'm 69u</h1>
+<h1 align="center">hi, i'm 69u 👋</h1>
 
 <p align="center">
-pc guy • breaks things • occasionally fixes them
+🦘 australia • breaks things • occasionally fixes them
 </p>
 
 ---
 
-### stack (when i can be bothered)
+### 🧠 stack (when i'm locked in)
 
 typescript · javascript · lua · node · html · css · tailwind
 
 ---
 
-### tools
+### 🧰 tools i use
 
 vs code · postman · npm · firefox
 
 ---
 
-### touched before
+### 🧪 i've touched this at some point
 
 python · php · c# · bootstrap
 
 ---
 
-### stats (for the algorithm gods)
+### 📊 stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=69u&hide=html,css&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs/?username=69u&hide=html,css&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=69u&theme=dark" />
+<img src="https://github-readme-stats.tuhidulhossain.com/api?username=69u&theme=dark" />
 </p>
 
 ---
 
 <p align="center">
-views: <img src="https://komarev.com/ghpvc/?username=69u&style=flat" />
+👀 profile views: <img src="https://komarev.com/ghpvc/?username=69u&style=flat" />
 </p>
